@@ -1,0 +1,14 @@
+# Dependency folders
+node_modules/
+
+# Environment variables
+.env
+secrets.json
+config.js
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
